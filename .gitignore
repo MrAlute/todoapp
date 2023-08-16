@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+venv/
+env/
+.env
+pip-selfcheck.json
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Local configuration
+.idea/
+.vscode/
+.vscode-test/
+*.code-workspace
+
+# Compiled files
+*.pyc
+*.pyo
+
+# Cache files
+__pycache__/
+
+# Environment
+env/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Alembic migration directory
+alembic/versions/
+alembic.ini
